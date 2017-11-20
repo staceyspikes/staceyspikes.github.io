@@ -4,4 +4,6 @@ header{
     text-align:center;
     background-color: #21b2a6;
 }
-
+#scroll{
+    transition-delay: 3.5s;
+}
