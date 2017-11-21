@@ -1,9 +1,16 @@
 ﻿body {
 }
-header{
-    text-align:center;
+
+header {
+    text-align: center;
     background-color: #21b2a6;
 }
-#scroll{
-    transition-delay: 3.5s;
+
+#scroll {
+    background-image: url('images/arrow.svg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    bottom: 4em;
+    height: 1.5em;
 }
